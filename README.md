@@ -1,5 +1,7 @@
 # xgmlt
-'Logit' Estimation with Spatial Standard Errors Use xgmlt STATA 18
+'Logit' Estimation with Spatial Standard Errors Use xgmlt STATA 19
+
+https://www.youtube.com/watch?v=5D4PsTdizMc
 
 Olah Data Semarang
 
